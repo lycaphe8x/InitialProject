@@ -8,6 +8,6 @@ namespace ConsoleApplication2
 {
     class NewClass
     {
-        ///gdfgsggsdgd
+        ///gdfgsggsdgdfsfsfsdfds
     }
 }
