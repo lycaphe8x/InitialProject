@@ -9,7 +9,7 @@ namespace ConsoleApplication2
     class NewClass
     {
         ///gdfgsggsdgdfsfsfsdfds
-        /// 
+        /// gggggg
         private int abc;
     }
 }
